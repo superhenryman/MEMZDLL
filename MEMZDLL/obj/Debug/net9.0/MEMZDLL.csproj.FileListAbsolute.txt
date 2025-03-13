@@ -1,0 +1,11 @@
+C:\Users\karee\Desktop\MEMZDLL\MEMZDLL\bin\Debug\net9.0\MEMZDLL.deps.json
+C:\Users\karee\Desktop\MEMZDLL\MEMZDLL\bin\Debug\net9.0\MEMZDLL.dll
+C:\Users\karee\Desktop\MEMZDLL\MEMZDLL\bin\Debug\net9.0\MEMZDLL.pdb
+C:\Users\karee\Desktop\MEMZDLL\MEMZDLL\obj\Debug\net9.0\MEMZDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karee\Desktop\MEMZDLL\MEMZDLL\obj\Debug\net9.0\MEMZDLL.AssemblyInfoInputs.cache
+C:\Users\karee\Desktop\MEMZDLL\MEMZDLL\obj\Debug\net9.0\MEMZDLL.AssemblyInfo.cs
+C:\Users\karee\Desktop\MEMZDLL\MEMZDLL\obj\Debug\net9.0\MEMZDLL.csproj.CoreCompileInputs.cache
+C:\Users\karee\Desktop\MEMZDLL\MEMZDLL\obj\Debug\net9.0\MEMZDLL.dll
+C:\Users\karee\Desktop\MEMZDLL\MEMZDLL\obj\Debug\net9.0\refint\MEMZDLL.dll
+C:\Users\karee\Desktop\MEMZDLL\MEMZDLL\obj\Debug\net9.0\MEMZDLL.pdb
+C:\Users\karee\Desktop\MEMZDLL\MEMZDLL\obj\Debug\net9.0\ref\MEMZDLL.dll
